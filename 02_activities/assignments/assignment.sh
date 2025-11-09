@@ -49,5 +49,5 @@ find processed -type f > inventory.txt
 cd ..
 
 ###########################################
-
+# to run this script: cd to the directory containing assignment.sh and run: bash assignment.sh
 echo "Project setup is complete!"
